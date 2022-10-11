@@ -1,4 +1,8 @@
 ### Hi there 👋
+- How many times do you drink coffee? 😄
+
+- I am a full stack developer using LAMP (Linux, Apache, MySQL, PHP) stack + React.js.
+- Also a core-banking software (Temenos Transact/T24) technical consultant.
 
 <!--
 **stephentwig/stephentwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫 How to reach me: https://www.linkedin.com/in/sarpongsei/
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephentwig&show_icons=true&theme=radical)
