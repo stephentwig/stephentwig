@@ -1,7 +1,7 @@
 ### Hi there 👋
 - How many times do you drink coffee? 😄
 
-- I am a full stack engineer solving problems with these technologies below:
+- I am a full stack engineer that loves ❤️ solving problems with these technologies below:
   
   - Frontend - React, Angular, Bootstrap, HTML, CSS, JavaScript, ChartJS
   - Backend - Python (Flask) & PHP (Laravel)
@@ -11,6 +11,8 @@
   
 - Also a core-banking software (Temenos Transact/T24) technical consultant.
 
+
+⚡ Fun fact: I fell in love with Boston Celtics 🏀 (NBA Team) after watching Uncut Gems starring Adam Sandler & Kevin Garnett, LaKeith Stanfield 😄.
 <!--
 **stephentwig/stephentwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
