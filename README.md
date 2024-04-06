@@ -1,7 +1,14 @@
 ### Hi there 👋
 - How many times do you drink coffee? 😄
 
-- I am a full stack engineer solving problems with LAMP (Linux, Apache, MySQL, PHP) stack + React.js.
+- I am a full stack engineer solving problems with these technologies below:
+  
+  - Frontend - React, Angular, Bootstrap, HTML, CSS, JavaScript, ChartJS
+  - Backend - Python (Flask) & PHP (Laravel)
+  - Database - MySQL, Postgresql, Microsoft SQL Server (MSSQL), SQLite
+  - Operating Systems - Linux , Windows
+  - Business Intelligence Tools: Tableau ,Excel 
+  
 - Also a core-banking software (Temenos Transact/T24) technical consultant.
 
 <!--
