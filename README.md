@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Stephen 👋
 - How many times do you drink coffee? 😄
 
 - I am a full stack engineer that loves ❤️ solving problems with these technologies below:
