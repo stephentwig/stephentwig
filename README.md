@@ -1,7 +1,7 @@
 ### Hi there, I am Stephen 👋
 - How many times do you drink coffee? 😄
 
-- I am a full stack engineer and Coding Instructor at [Code Ninjas](https://www.instagram.com/p/DAJvhgOS_B-/)  that loves ❤️ solving problems with these technologies below:
+- I am a full stack engineer and a Coding Instructor at [Code Ninjas](https://www.instagram.com/p/DAJvhgOS_B-/)  that loves ❤️ solving problems with these technologies below:
   
   - Frontend - React, Angular, Bootstrap, HTML, CSS, JavaScript, ChartJS
   - Backend - Python (Flask) & PHP (Laravel)
