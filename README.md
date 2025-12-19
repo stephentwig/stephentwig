@@ -6,7 +6,7 @@
   - Frontend - React, Angular, Bootstrap, HTML, CSS, JavaScript, ChartJS
   - Backend - Python (Flask) & PHP (Laravel)
   - Database - MySQL, Postgresql, Microsoft SQL Server (MSSQL), SQLite
-  - Operating Systems - Linux , Windows
+  - Operating Systems - Linux , Windows , Mac OS
   - Business Intelligence Tools: Tableau ,Excel 
   
 - Also a core-banking software (Temenos Transact/T24) technical consultant.
