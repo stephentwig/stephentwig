@@ -12,7 +12,7 @@
 - Also a core-banking software (Temenos Transact/T24) technical consultant.
 
 
-⚡ Fun fact: I fell in love with Boston Celtics 🏀 (NBA Team) after watching Uncut Gems starring Adam Sandler & Kevin Garnett, LaKeith Stanfield 😄.
+⚡ Fun fact: I fell in love with Boston Celtics 🏀 (NBA Team) after watching Uncut Gems starring Adam Sandler, Kevin Garnett & LaKeith Stanfield 😄.
 <!--
 **stephentwig/stephentwig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
