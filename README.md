@@ -1,13 +1,14 @@
 ### Hi there, I am Stephen 👋
 - How many times do you drink coffee? 😄
 
-- I am a full stack engineer and a Coding Instructor at [ID Tech](https://idtech.com)  that loves ❤️ solving problems with these technologies below:
+- I am an IT professional,  full stack software engineer and a Coding Instructor at [ID Tech](https://idtech.com)  that loves ❤️ solving problems with these technologies below:
   
   - Frontend - React, Angular, Bootstrap, HTML, CSS, JavaScript, ChartJS
   - Backend - Python (Flask) & PHP (Laravel)
   - Database - MySQL, Postgresql, Microsoft SQL Server (MSSQL), SQLite
   - Operating Systems - Linux , Windows , Mac OS
-  - Business Intelligence Tools: Tableau ,Excel 
+  - Business Intelligence Tools: Tableau ,Excel
+  - Cloud - Amazon Web Services (AWS)
   
 - Also a core-banking software (Temenos Transact/T24) technical consultant.
 
