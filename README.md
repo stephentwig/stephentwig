@@ -9,6 +9,7 @@
   - Operating Systems - Linux , Windows , Mac OS
   - Business Intelligence Tools: Tableau ,Excel
   - Cloud - Amazon Web Services (AWS)
+  - GenAI - Ollama, Claude, ChatGPT Codex, GitHub Copilot
   
 - Also a core-banking software (Temenos Transact/T24) technical consultant.
 
