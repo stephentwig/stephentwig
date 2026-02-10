@@ -5,7 +5,7 @@
   
   - Frontend - React, Angular, Bootstrap, HTML, CSS, JavaScript, ChartJS
   - Backend - Python (Flask) & PHP (Laravel)
-  - Database - MySQL, Postgresql, Microsoft SQL Server (MSSQL), SQLite
+  - Database - MySQL, Postgresql, Microsoft SQL Server (MSSQL), SQLite, Snowflake
   - Operating Systems - Linux , Windows , Mac OS
   - Business Intelligence Tools: Tableau ,Excel
   - Cloud - Amazon Web Services (AWS)
