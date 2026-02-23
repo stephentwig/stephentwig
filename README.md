@@ -10,7 +10,7 @@
   - Business Intelligence Tools: Tableau ,Excel 
   <br>
   <br>  
-  - Cloud - Amazon Web Services (AWS)  
+  - Cloud - Amazon Web Services (AWS) <br>
   - GenAI - Ollama, Claude, ChatGPT Codex, GitHub Copilot
   
 - Also a core-banking software (Temenos Transact/T24) technical consultant.
