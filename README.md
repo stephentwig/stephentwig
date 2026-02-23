@@ -8,8 +8,8 @@
   - Database - MySQL, Postgresql, Microsoft SQL Server (MSSQL), SQLite, Snowflake
   - Operating Systems - Linux , Windows , Mac OS
   - Business Intelligence Tools: Tableau ,Excel
-
-    
+  <br>
+  <br>  
   - Cloud - Amazon Web Services (AWS)
   - GenAI - Ollama, Claude, ChatGPT Codex, GitHub Copilot
   
