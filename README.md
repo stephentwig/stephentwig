@@ -11,8 +11,8 @@
   <br>
   <br>  
   - Cloud - Amazon Web Services (AWS) <br>
-  - GenAI - Ollama, Claude, ChatGPT Codex, GitHub Copilot  
-
+  - GenAI - Ollama, Claude, ChatGPT Codex, GitHub Copilot
+  <br>  
   - Game Development - 🎮 GDevelop 5, Unity C#, PyGame, Panda3D, Godot, Roblox, Microsoft MakeCode, Scratch, Unreal Engine, Defold 
   
 - Also a core-banking software (Temenos Transact/T24) technical consultant.
